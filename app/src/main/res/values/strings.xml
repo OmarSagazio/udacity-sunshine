@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Udacity Sunshine</string>
+    <string name="today_frct">Today - Sunny - 88/63</string>
+    <string name="action_settings">Settings</string>
+    <string name="mn_action_refresh" translable="false">Refresh</string>
+    <string name="activity_detail_title">Detail Activity</string>
+</resources>
